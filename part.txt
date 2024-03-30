@@ -1,0 +1,10 @@
+git contents
+working directorty
+staging area
+remote repository
+
+branching
+merging
+merging conflicts
+
+
